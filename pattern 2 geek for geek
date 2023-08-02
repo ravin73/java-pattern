@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
 
     void printTriangle(int n) {
         for(int i=1;i<=n;i++){
@@ -10,4 +10,5 @@ lass Solution {
         
     }  
 }
+//you miss the c in the first line in your java code
    
